@@ -1,1 +1,54 @@
-["index.md"]
+[
+        {
+        "filename": "reqops-or-how-to-become-a-super-product-owner.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename":  "index.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "next-generation-it.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "deploy-scale.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename": "scalajs-und-reactjs.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename": "microservice-as-a-pattern.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename": "visual-regression-testing.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename": "devops-service-und-paas.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    },
+    {
+        "filename": "meteor-has-landed.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    }
+]
