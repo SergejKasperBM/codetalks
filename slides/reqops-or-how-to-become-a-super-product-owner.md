@@ -1,12 +1,6 @@
-##  ReqOps
+##  Link JIRA Issues to Confluence Pages, Automatically
 
-### Confluence drives Jira
+<iframe width="605" height="390" src="//www.youtube.com/embed/g1N1aSUdcRw" frameborder="0" allowfullscreen></iframe>
 
-Link JIRA Issues to Confluence Pages, Automatically
 
-http://blogs.atlassian.com/2012/02/link-jira-issues-to-confluence-pages-automatically/
-
-JIRA and Confluence Integration Tutorial
-
-http://vimeo.com/5836174
-
+- Reporting tasks by function (Concept, Design, Dev, Testing)

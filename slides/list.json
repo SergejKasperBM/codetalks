@@ -1,18 +1,22 @@
 [
-        {
+    {
         "filename": "reqops-or-how-to-become-a-super-product-owner.md",
         "attr": {
             "data-background": "#ffffff"
         }
     },
+    "jira-drives-confluence-2.md",
+    "jira-drives-confluence-3.md",
     {
-        "filename":  "index.md",
+        "filename": "index.md",
         "attr": {
+            "class": "shadow-box"
         }
     },
     {
         "filename": "next-generation-it.md",
         "attr": {
+            "class": "shadow-box"
         }
     },
     {
