@@ -1,32 +1,30 @@
 [
     {
-        "filename": "reqops-or-how-to-become-a-super-product-owner.md",
-        "attr": {
-            "data-background": "#ffffff"
-        }
-    },
-    "jira-drives-confluence-2.md",
-    "jira-drives-confluence-3.md",
-    {
         "filename": "index.md",
         "attr": {
             "class": "shadow-box"
         }
     },
     {
-        "filename": "next-generation-it.md",
-        "attr": {
-            "class": "shadow-box"
-        }
-    },
-    {
-        "filename": "deploy-scale.md",
+        "filename": "scalajs-und-reactjs.md",
         "attr": {
             "data-background": "#ffffff"
         }
     },
+    [
+        "reactjs.md",
+        "reactjs-features.md",
+        "reactjs-architecture.md",
+        "reactjs-takeaway.md"
+    ],
+    [
+        "scalajs.md",
+        "scalajs-features.md",
+        "scalajs-architecture.md",
+        "scalajs-takeaway.md"
+    ],
     {
-        "filename": "scalajs-und-reactjs.md",
+        "filename": "deploy-scale.md",
         "attr": {
             "data-background": "#ffffff"
         }
@@ -44,15 +42,29 @@
         }
     },
     {
-        "filename": "devops-service-und-paas.md",
-        "attr": {
-            "data-background": "#ffffff"
-        }
-    },
-    {
         "filename": "meteor-has-landed.md",
         "attr": {
             "data-background": "#ffffff"
         }
-    }
+    },
+
+    [
+    {
+        "filename": "next-generation-it.md",
+        "attr": {
+            "class": "shadow-box"
+        }
+    },
+    "next-generation-services.md",
+    "next-generation-teams.md",
+    "next-generation-architecture.md"
+    ],
+    [
+    "reqops.md",
+    "reqops-challenges.md",
+    "reqops-definition.md",
+    "reqops-solution.md"
+    ]
+
+
 ]

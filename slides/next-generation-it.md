@@ -1,3 +1,4 @@
-##  Next Generation IT
+###  New Talks!
 
-This is a new Markdown slide
+- ScalaJS
+- ReactJS 
