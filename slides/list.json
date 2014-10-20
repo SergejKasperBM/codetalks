@@ -156,5 +156,11 @@
         "attr": {
             "class": "shadow-box"
         }
-    }
+    },
+     {
+        "filename": "zugabe.md",
+        "attr": {
+            "class": "shadow-box"
+        }
+    }   
 ]
