@@ -1,3 +1,3 @@
 ##  ScalaJS Architecture
 
-This is a new Markdown slide
+<img src="images/scalajs-pipeline.png" >

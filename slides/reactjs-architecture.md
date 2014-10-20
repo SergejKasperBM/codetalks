@@ -2,4 +2,4 @@
 
 - Nur die UI (V ohne MC)
 - Minimale DOM-Änderungen (Virtuelles DOM)
-- Keeping it simple (no Framework-Magic)
+- Keeping it simple (keine Framework-Magic)

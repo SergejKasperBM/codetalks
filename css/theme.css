@@ -8,6 +8,12 @@
 .reveal a:not(.image) {
   line-height: 1.3em; }
 
+.reveal section img {
+  border: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  max-width: 500px; }
+
 /*@mixin bodyBackground() {
         @include radial-gradient( rgba(136, 170, 0, 0.2), rgba(136, 170, 0, 0.1) );
 }*/
@@ -16,6 +22,25 @@
   -webkit-box-shadow: 8px 8px 4px 0px rgba(255, 255, 255, 0.5);
   -moz-box-shadow: 8px 8px 4px 0px rgba(255, 255, 255, 0.5);
   box-shadow: 8px 8px 4px 0px rgba(255, 255, 255, 0.5); }
+
+li {
+  line-height: 1.9em !important; }
+
+.reveal section li strong {
+  color: #88aa00; }
+
+.pdf-view-container {
+  position: absolute;
+  width: 200%;
+  height: 1000px;
+  display: block;
+  margin-left: -50% !important;
+  margin-top: -50% !important;
+  margin-bottom: -50% !important; }
+  .pdf-view-container object.pdf-view {
+    width: 100%;
+    height: 100%;
+    background-color: #fff; }
 
 /*********************************************
  * GLOBAL STYLES
@@ -45,7 +70,7 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+  margin: 0 0 35px 0;
   color: #88aa00;
   font-family: "Quicksand", sans-serif;
   line-height: 0.9em;

@@ -12,59 +12,149 @@
         }
     },
     [
-        "reactjs.md",
-        "reactjs-features.md",
-        "reactjs-architecture.md",
-        "reactjs-takeaway.md"
+        {
+            "filename": "reactjs.md",
+            "attr": {
+                "data-background": "#202020"
+            }
+        },
+        {
+            "filename": "reactjs-features.md",
+            "attr": {
+                "data-background": "#202020"
+            }
+        },
+        {
+            "filename": "reactjs-architecture.md",
+            "attr": {
+                "data-background": "#202020"
+            }
+        },
+        {
+            "filename": "reactjs-sample.html",
+            "attr": {
+                "data-background": "#202020"
+            }
+        },
+        {
+            "filename": "reactjs-takeaway.md",
+            "attr": {
+                "data-background": "#202020"
+            }
+        }
     ],
     [
-        "scalajs.md",
-        "scalajs-features.md",
-        "scalajs-architecture.md",
-        "scalajs-takeaway.md"
+        {
+            "filename": "scalajs.md",
+            "attr": {
+                "data-background": "#ffffff"
+            }
+        },
+        {
+            "filename": "scalajs-features.md",
+            "attr": {
+                "data-background": "#ffffff"
+            }
+        },
+        {
+            "filename": "scalajs-architecture.md",
+            "attr": {
+                "data-background": "#ffffff"
+            }
+        },
+        {
+            "filename": "scalajs-takeaway.md",
+            "attr": {
+                "data-background": "#ffffff"
+            }
+        }
     ],
-    {
-        "filename": "deploy-scale.md",
-        "attr": {
-            "data-background": "#ffffff"
+    [
+        {
+            "filename": "next-generation-architecture.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-1.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-2.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-3.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-4.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-5.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-6.html",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "next-generation-architecture-7.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
         }
-    },
-    {
-        "filename": "microservice-as-a-pattern.md",
-        "attr": {
-            "data-background": "#ffffff"
+    ],
+    [
+        {
+            "filename": "deploy-scale.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
+        },
+        {
+            "filename": "deploy-scale-1.md",
+            "attr": {
+                "class": "shadow-box",
+                "data-background": "url('images/next-generation-it.jpg')"
+            }
         }
-    },
-    {
-        "filename": "visual-regression-testing.md",
-        "attr": {
-            "data-background": "#ffffff"
-        }
-    },
-    {
-        "filename": "meteor-has-landed.md",
-        "attr": {
-            "data-background": "#ffffff"
-        }
-    },
 
-    [
+    ],
     {
-        "filename": "next-generation-it.md",
+        "filename": "reqops.md",
+        "attr": {
+            "class": "shadow-box",
+            "data-background": "url('images/next-generation-it.jpg')"
+        }
+    },
+    {
+        "filename": "ende.md",
         "attr": {
             "class": "shadow-box"
         }
-    },
-    "next-generation-services.md",
-    "next-generation-teams.md",
-    "next-generation-architecture.md"
-    ],
-    [
-    "reqops.md",
-    "reqops-challenges.md",
-    "reqops-definition.md",
-    "reqops-solution.md"
-    ]
-
-
+    }
 ]

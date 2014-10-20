@@ -1,3 +1,3 @@
-##  Next Generation Architecture
+##  Next Generation IT 
 
-This is a new Markdown slide
+<p>Talk von Uwe Friedrichsen (codecentric AG)</p>

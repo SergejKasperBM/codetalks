@@ -1,3 +1,3 @@
 ##  deploy & scale
 
-This is a new Markdown slide
+<img src="http://www.pushtechnology.com/wp-content/uploads/2014/07/ibm-bluemix.jpg">
