@@ -42,6 +42,13 @@ li {
     height: 100%;
     background-color: #fff; }
 
+.reveal pre {
+  box-shadow: none;
+  border: none; }
+  .reveal pre code {
+    background: transparent;
+    color: #777; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
